@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-## Diff test
+## Diff test extra
 
 This part will be tested with the git diff method.
 

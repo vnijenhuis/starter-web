@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 
 ## Copyright
 Git.Training
+
+## Update
+Fork this repository.

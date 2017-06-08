@@ -9,3 +9,6 @@ This part will be tested with the git diff method.
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Copyright
+Git.Training
